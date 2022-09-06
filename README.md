@@ -1,6 +1,6 @@
 ### Hello everyone👋 I'm Max Klimenko. 
 
-Front-end developer from Voronezh.
+Frontend developer from Voronezh.
 
 
 **Technologies**:
